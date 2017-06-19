@@ -4,3 +4,7 @@ Adding more than one custom tabs for woocommerce
 Create a file with this code & list it in functions.php of your theme as 
 
 <code>require_once(get_template_directory().'woocustomtab.php');</code>
+
+
+Tabs look like
+<img src="http://imgur.com/a/bpvew" />
