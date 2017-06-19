@@ -7,4 +7,5 @@ Create a file with this code & list it in functions.php of your theme as
 
 
 Tabs look like
-<img src="http://imgur.com/a/bpvew" />
+![tabs](https://user-images.githubusercontent.com/1099303/27286801-0f7ff1b8-551f-11e7-8d17-c85a62ff3a93.png)
+
